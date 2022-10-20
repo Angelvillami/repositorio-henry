@@ -6,3 +6,4 @@ ahora unos cambios tambien aca
 al parecer funciono todo bien
 subire el ultimo commit de esta prueba 
 seguiremos con el siguiente Reto 
+ahora estoy con pau y le voy a mostrar
